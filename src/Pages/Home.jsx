@@ -4,6 +4,7 @@ const Home = () => {
   return (
     <div>
       <h1>This is home page added for newly feature branch</h1>
+      <h1>This is home page added for new feature in main</h1>
     </div>
   )
 }
