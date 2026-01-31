@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      <h1>This is home page added</h1>
+      <h1>This is home page added for newly feature branch</h1>
     </div>
   )
 }
