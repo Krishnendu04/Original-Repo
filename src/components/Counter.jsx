@@ -7,6 +7,7 @@ const Counter = () => {
   }
   const handleDecrease=()=>{
     setCount(prev=>prev-1);
+  }
   return (
     <div>
       <p>Counter:{count}</p>
